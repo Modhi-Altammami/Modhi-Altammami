@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Modhi-Altammami
 - 👀 I’m interested in mobile development and data analysis
-- 🌱 I’m currently learning React Native Development
+- 🌱 I’m currently learning React Native Development and Game Development!
 - 📫 How to reach me Modi.tammami@gmail.com
 
 <!---
